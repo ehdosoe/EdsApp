@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_camera"
+                android:icon="@drawable/ic_menu_rcy_in_frg"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Retrofit">
+        <menu>
+            <item
+                android:id="@+id/nav_rtf_egone"
+                android:icon="@drawable/ic_menu_rcy_in_frg"
+                android:title="Retrofit Eg.one" />
+        </menu>
+    </item>
+
+</menu>
